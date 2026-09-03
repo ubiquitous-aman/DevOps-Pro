@@ -1,0 +1,15 @@
+============================================================
+              JENKINS CI/CD AUTOMATION REPORT               
+============================================================
+Project:          College Placement Portal (DevOps-2026-CS-F-05)
+Triggered Branch: utkarsh_gupta
+Developer:        Utkarsh Gupta
+Build Number:     #7
+Build Status:     SUCCESS
+Commit Date:      Thu, 3 Sep 2026 16:47:35 +0530
+Git Commit:       36edf1087be05715ef7be30f393b546d5807d5d6
+============================================================
+TEST SUMMARY & LOG OUTPUT:
+------------------------------------------------------------
+Backend directory not found; recording build summary.
+============================================================
