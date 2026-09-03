@@ -4,12 +4,21 @@
 Project:          College Placement Portal (DevOps-2026-CS-F-05)
 Triggered Branch: utkarsh_gupta
 Developer:        Utkarsh Gupta
-Build Number:     #7
+Build Number:     #3
 Build Status:     SUCCESS
 Commit Date:      Thu, 3 Sep 2026 16:47:35 +0530
-Git Commit:       36edf1087be05715ef7be30f393b546d5807d5d6
+Git Commit Hash:  36edf1087be05715ef7be30f393b546d5807d5d6
 ============================================================
 TEST SUMMARY & LOG OUTPUT:
 ------------------------------------------------------------
-Backend directory not found; recording build summary.
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /var/lib/jenkins/workspace/Placement_Portal_CI1/backend/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/var/lib/jenkins/workspace/Placement_Portal_CI1/backend/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /var/lib/jenkins/.npm/_logs/2026-09-29T03_19_25_645Z-debug-0.log
 ============================================================
